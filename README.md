@@ -1,102 +1,76 @@
-<p align="center">
-
-  <a href="https://polar.sh">
-      <img src="https://github.com/user-attachments/assets/89a588e5-0c58-429a-8bbe-20f70af41372" />
+<div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a href="https://polar.sh" rel="nofollow">
+      <img src="https://private-user-images.githubusercontent.com/10053249/384291956-89a588e5-0c58-429a-8bbe-20f70af41372.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzODQ0MTEsIm5iZiI6MTczMzM4NDExMSwicGF0aCI6Ii8xMDA1MzI0OS8zODQyOTE5NTYtODlhNTg4ZTUtMGM1OC00MjlhLThiYmUtMjBmNzBhZjQxMzcyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA1VDA3MzUxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0Yjg4Mjk1OTM3NTVlOTE2NjBjODVjZWZmYTJlMDQ0NDIxMzdiNzI5YTVjMGEzZmNkNjJiZWFhMWJlYTFjYjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ytV5NUa1mR9e8AIzBsj_lsB-meqSQoVbmvgKHLV7cOU" secured-asset-link="" style="max-width: 100%;">
   </a>
-
-
 </p>
-
-<div align="center">
-
-<a href="https://www.producthunt.com/posts/polar-5?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-polar&#0045;5" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=484271&theme=dark&period=daily" alt="Polar - An&#0032;open&#0032;source&#0032;monetization&#0032;platform&#0032;for&#0032;developers | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>  <a href="https://www.producthunt.com/posts/polar-5?embed=true&utm_source=badge-top-post-topic-badge&utm_medium=badge&utm_souce=badge-polar&#0045;5" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=484271&theme=dark&period=monthly&topic_id=267" alt="Polar - An&#0032;open&#0032;source&#0032;monetization&#0032;platform&#0032;for&#0032;developers | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://www.producthunt.com/posts/polar-5?embed=true&amp;utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_souce=badge-polar-5" rel="nofollow"><img src="https://camo.githubusercontent.com/5ac4bd40d44affa1a458624f34c59f0b17a4acae8f9a55ce92a67d8ff45d3421/68747470733a2f2f6170692e70726f6475637468756e742e636f6d2f776964676574732f656d6265642d696d6167652f76312f746f702d706f73742d62616467652e7376673f706f73745f69643d343834323731267468656d653d6461726b26706572696f643d6461696c79" alt="Polar - 面向开发人员的开源货币化平台 |产品狩猎" style="width: 250px; height: 54px; max-width: 100%;" width="250" height="54" data-canonical-src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=484271&amp;theme=dark&amp;period=daily" _mstalt="3340987" _msthash="284"></a>  <a href="https://www.producthunt.com/posts/polar-5?embed=true&amp;utm_source=badge-top-post-topic-badge&amp;utm_medium=badge&amp;utm_souce=badge-polar-5" rel="nofollow"><img src="https://camo.githubusercontent.com/dc442761692a59cf3e08a96c5bd6a043ea7ea7e5cdc52c2098ef70efb6e3e568/68747470733a2f2f6170692e70726f6475637468756e742e636f6d2f776964676574732f656d6265642d696d6167652f76312f746f702d706f73742d746f7069632d62616467652e7376673f706f73745f69643d343834323731267468656d653d6461726b26706572696f643d6d6f6e74686c7926746f7069635f69643d323637" alt="Polar - 面向开发人员的开源货币化平台 |产品狩猎" style="width: 250px; height: 54px; max-width: 100%;" width="250" height="54" data-canonical-src="https://api.producthunt.com/widgets/embed-image/v1/top-post-topic-badge.svg?post_id=484271&amp;theme=dark&amp;period=monthly&amp;topic_id=267" _mstalt="3340987" _msthash="285"></a></p>
 </div>
-
-<hr />
-<div align="center">
-
-
-<a href="https://polar.sh">Website</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://polar.sh/polarsource">Blog</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://polar.sh/docs">Docs</a>
-<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://polar.sh/docs/api">API Reference</a>
-
-
-<p align="center">
-  <a href="https://discord.gg/Pnhfz3UThd">
-    <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord Chat" />
+<hr>
+<div align="center" dir="auto">
+<p dir="auto" _msttexthash="39335842" _msthash="286"><a href="https://polar.sh" rel="nofollow" _istranslated="1">网站</a> <span _istranslated="1"> • </span> <a href="https://polar.sh/polarsource" rel="nofollow" _istranslated="1">博客</a> <span _istranslated="1"> • </span> <a href="https://polar.sh/docs" rel="nofollow" _istranslated="1">文档</a> <span _istranslated="1"> • </span> <a href="https://polar.sh/docs/api" rel="nofollow" _istranslated="1">API 参考</a></p>
+<p align="center" dir="auto">
+  <a href="https://discord.gg/Pnhfz3UThd" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/4921ed6603bc6780b3892f60abb1cd1143568cf1595701546c32f7a2619d9daf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230646973636f72642d3732383944412e737667" alt="Discord 聊天" data-canonical-src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" style="max-width: 100%;" _mstalt="172276" _msthash="287">
   </a>
-
-  <a href="https://twitter.com/intent/follow?screen_name=polar_sh">
-    <img src="https://img.shields.io/twitter/follow/polar_sh.svg?label=Follow%20@polar_sh" alt="Follow @polar_sh" />
+  <a href="https://twitter.com/intent/follow?screen_name=polar_sh" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/3f42dc39ba4fea77c4e239d6a91ae1f2e81a8a9ccdbbe337a2cf76edb0ba677c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f706f6c61725f73682e7376673f6c6162656c3d466f6c6c6f7725323040706f6c61725f7368" alt="关注 @polar_sh" data-canonical-src="https://img.shields.io/twitter/follow/polar_sh.svg?label=Follow%20@polar_sh" style="max-width: 100%;" _mstalt="284206" _msthash="288">
   </a>
 </p>
 </div>
-<hr />
-
-## Polar: Open source Lemon Squeezy & Paddle alternative
-Focus on building your passion, while we focus on the infrastructure to get you paid.
-
-- Sell SaaS and digital products in minutes
-- All-in-one funding & monetization platform for developers.
-- Sell access to GitHub repositories, Discord Support channels, File Downloads, License Keys & much more with Digital Products & Subscriptions.
-- Setup crowdfunding on your GitHub issues
-- We're the merchant of record handling the...
-  - ...boilerplate (billing, receipts, customer accounts etc)
-  - ...headaches (sales tax, VAT)
-
-## Pricing
-
-- 4% + 40¢
-- No fixed, monthly, costs
-- Additional fees may apply. [Read more](https://polar.sh/docs/fees)
-
-## Roadmap, Issues & Feature Requests
-**🎯 Upcoming milestones.** [Checkout what we're building towards](https://github.com/polarsource/polar/issues/3242)
-
-**💬 Shape the future of Polar with us.** [Join our Discord](https://discord.gg/Pnhfz3UThd)
-
-**🐛 Found a bug?** [Submit it here](https://github.com/polarsource/polar/issues)
-
-**🔓 Found a security vulnerability?** We greatly appreciate responsible and private disclosures. See [Security](./SECURITY.md)
-
-### Polar API & SDK
-
-You can integrate Polar on your docs, sites or services using our [Public API](https://docs.polar.sh/api/) and [Webhook API](https://docs.polar.sh/developers/webhooks).
-
-We also maintain SDK for the following languages:
-
-* JavaScript (Node.js and browsers): [polarsource/polar-js](https://github.com/polarsource/polar-js)
-* Python: [polarsource/polar-python](https://github.com/polarsource/polar-python)
-
-## Contributions
-
-Our [`DEVELOPMENT.md`](./DEVELOPMENT.md) file contains everything you need to know to configure your development environment.
-
-> [!TIP]
-> Want to get started quickly? Use GitHub Codespaces.
->
-> [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/polarsource/polar?machine=standardLinux32gb)
-
-### Contributors
+<hr>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="57922670" _msthash="289">Polar：开源的Lemon Squeezy &amp; Paddle替代品</h2><a id="user-content-polar-open-source-lemon-squeezy--paddle-alternative" class="anchor" aria-label="永久链接：Polar：开源Lemon Squeezy和Paddle替代品" href="#polar-open-source-lemon-squeezy--paddle-alternative" _mstaria-label="2900794" _msthash="290"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="203376719" _msthash="291">专注于培养您的激情，而我们专注于基础设施以让您获得报酬。</p>
+<ul dir="auto">
+<li _msttexthash="53566162" _msthash="292">在几分钟内销售 SaaS 和数字产品</li>
+<li _msttexthash="97150716" _msthash="293">为开发者提供的一体化资金和货币化平台。</li>
+<li _msttexthash="451218911" _msthash="294">通过数字产品和订阅销售对GitHub存储库、Discord支持频道、文件下载、许可证密钥等的更多访问。</li>
+<li _msttexthash="61425416" _msthash="295">在您的 GitHub 问题上设置众筹</li>
+<li><font _mstmutation="1" _msttexthash="14679522" _msthash="296">我们是处理...</font><ul dir="auto">
+<li _msttexthash="102925875" _msthash="297">...样板（账单、收据、客户账户等）</li>
+<li _msttexthash="71059391" _msthash="298">...头痛（销售税、增值税）</li>
+</ul>
+</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="4236310" _msthash="299">定价</h2><a id="user-content-pricing" class="anchor" aria-label="永久链接： 定价" href="#pricing" _mstaria-label="333658" _msthash="300"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="8669921" _msthash="301">4% + 40 美分</li>
+<li _msttexthash="36457343" _msthash="302">没有固定的每月费用</li>
+<li _msttexthash="79016535" _msthash="303">可能需要支付额外费用。<a href="https://polar.sh/docs/fees" rel="nofollow" _istranslated="1">阅读更多</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="49990798" _msthash="304">路线图、问题和功能请求</h2><a id="user-content-roadmap-issues--feature-requests" class="anchor" aria-label="永久链接：路线图、问题和功能请求" href="#roadmap-issues--feature-requests" _mstaria-label="1639339" _msthash="305"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="137974395" _msthash="306"><strong _istranslated="1">🎯 即将到来的里程碑。</strong> <a href="https://github.com/polarsource/polar/issues/3242" data-hovercard-type="issue" data-hovercard-url="/polarsource/polar/issues/3242/hovercard" _istranslated="1">查看我们正在构建的目标</a></p>
+<p dir="auto" _msttexthash="109481580" _msthash="307"><strong _istranslated="1">💬 与我们一起塑造 Polar 的未来。</strong> <a href="https://discord.gg/Pnhfz3UThd" rel="nofollow" _istranslated="1">加入我们的 Discord</a></p>
+<p dir="auto" _msttexthash="68705169" _msthash="308"><strong _istranslated="1">🐛 发现错误？</strong> <a href="https://github.com/polarsource/polar/issues" _istranslated="1">在这里提交</a></p>
+<p dir="auto" _msttexthash="254688915" _msthash="309"><strong _istranslated="1">🔓 发现安全漏洞？</strong>我们非常感谢负责任和私密的披露。请参阅<a href="/polarsource/polar/blob/main/SECURITY.md" _istranslated="1">安全性</a></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="154570" _msthash="310">Polar API &amp; SDK</h3><a id="user-content-polar-api--sdk" class="anchor" aria-label="永久链接：Polar API &amp; SDK" href="#polar-api--sdk" _mstaria-label="576043" _msthash="311"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="261883661" _msthash="312">您可以使用我们的<a href="https://docs.polar.sh/api/" rel="nofollow" _istranslated="1">公共 API</a> 和 <a href="https://docs.polar.sh/developers/webhooks" rel="nofollow" _istranslated="1">Webhook API</a> 将 Polar 集成到您的文档、网站或服务中。</p>
+<p dir="auto" _msttexthash="59808840" _msthash="313">我们还维护以下语言的 SDK：</p>
+<ul dir="auto">
+<li _msttexthash="102844976" _msthash="314">JavaScript（Node.js和浏览器）：<a href="https://github.com/polarsource/polar-js" _istranslated="1">polarsource/polar-js</a></li>
+<li _msttexthash="15090868" _msthash="315">蟒蛇：<a href="https://github.com/polarsource/polar-python" _istranslated="1">polarsource/polar-python</a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="316">贡献</h2><a id="user-content-contributions" class="anchor" aria-label="永久链接：贡献" href="#contributions" _mstaria-label="567320" _msthash="317"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="230971286" _msthash="318">我们的 <a href="/polarsource/polar/blob/main/DEVELOPMENT.md" _istranslated="1"><code _istranslated="1">DEVELOPMENT.md</code></a> 文件包含配置开发环境所需了解的所有内容。</p>
+<div class="markdown-alert markdown-alert-tip" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847a8.456 8.456 0 0 0-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.751.751 0 0 1-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75ZM5.75 12h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1 0-1.5ZM6 15.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 0 1.5h-2.5a.75.75 0 0 1-.75-.75Z"></path></svg><font _mstmutation="1" _msttexthash="5552768" _msthash="319">提示</font></p><p dir="auto" _msttexthash="48750585" _msthash="320">想要快速入门？使用 GitHub Codespaces。</p>
+<p dir="auto"><a href="https://codespaces.new/polarsource/polar?machine=standardLinux32gb" rel="nofollow"><img src="https://github.com/codespaces/badge.svg" alt="在 GitHub Codespaces 中打开" style="max-width: 100%;" _mstalt="507845" _msthash="321"></a></p>
+</div>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6354283" _msthash="322">贡献</h3><a id="user-content-contributors" class="anchor" aria-label="永久链接： 贡献者" href="#contributors" _mstaria-label="528866" _msthash="323"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <a href="https://github.com/polarsource/polar/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=polarsource/polar" />
+  <img src="https://camo.githubusercontent.com/9f9a9ece6291de8f8f95de36a9ce257ab1d82e94dfb6798e551719315c7ec45a/68747470733a2f2f636f6e747269622e726f636b732f696d6167653f7265706f3d706f6c6172736f757263652f706f6c6172" data-canonical-src="https://contrib.rocks/image?repo=polarsource/polar" style="max-width: 100%;">
 </a>
-
-
-## Monorepo
-* **[server](./server/README.md)** – Python / FastAPI / Arq / SQLAlchemy (PostgreSQL) / Redis
-* **[clients](./clients/README.md)** – Turborepo
-  * [web](./clients/apps/web) (Dashboard) – NextJS (TypeScript)
-  * [polarkit](./clients/packages/polarkit) - Shared React components
-
-<sub>♥️🙏 To our `pyproject.toml` friends: [FastAPI](https://github.com/tiangolo/fastapi), [Pydantic](https://github.com/pydantic/pydantic), [Arq](https://github.com/samuelcolvin/arq), [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy), [Githubkit](https://github.com/yanyongyu/githubkit), [sse-starlette](https://github.com/sysid/sse-starlette), [Uvicorn](https://github.com/encode/uvicorn), [httpx-oauth](https://github.com/frankie567/httpx-oauth), [jinja](https://github.com/pallets/jinja), [blinker](https://github.com/pallets-eco/blinker), [pyjwt](https://github.com/jpadilla/pyjwt), [Sentry](https://github.com/getsentry/sentry) + more</sub><br />
-<sub>♥️🙏 To our `package.json` friends: [Next.js](https://github.com/vercel/next.js/), [TanStack Query](https://github.com/TanStack/query), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [zustand](https://github.com/pmndrs/zustand), [openapi-typescript-codegen](https://github.com/ferdikoomen/openapi-typescript-codegen), [axios](https://github.com/axios/axios), [radix-ui](https://github.com/radix-ui/primitives), [cmdk](https://github.com/pacocoursey/cmdk), [framer-motion](https://github.com/framer/motion) + more</sub><br />
-<sub>♥️🙏 To [IPinfo](https://ipinfo.io) that provides IP address data to help us geolocate customers during checkout.</sub>
-
-## License
-Licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="6033339" _msthash="324">Monorepo 的</h2><a id="user-content-monorepo" class="anchor" aria-label="永久链接： Monorepo" href="#monorepo" _mstaria-label="373854" _msthash="325"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li _msttexthash="87318361" _msthash="326"><strong _istranslated="1"><a href="/polarsource/polar/blob/main/server/README.md" _istranslated="1">服务器</a></strong> – Python / FastAPI / Arq / SQLAlchemy （PostgreSQL） / Redis</li>
+<li><font _mstmutation="1" _msttexthash="5886400" _msthash="327"><strong _mstmutation="1" _istranslated="1"><a href="/polarsource/polar/blob/main/clients/README.md" _istranslated="1">客户</a></strong> – Turborepo</font><ul dir="auto">
+<li _msttexthash="82012463" _msthash="328"><a href="/polarsource/polar/blob/main/clients/apps/web" _istranslated="1">web</a> （仪表板） – NextJS （TypeScript）</li>
+<li _msttexthash="32845046" _msthash="329"><a href="/polarsource/polar/blob/main/clients/packages/polarkit" _istranslated="1">polarkit</a> - 共享的 React 组件</li>
+</ul>
+</li>
+</ul>
+<p dir="auto"><sub><g-emoji class="g-emoji" alias="hearts" _msttexthash="7658495" _msthash="330">♥️</g-emoji><font _mstmutation="1" _msttexthash="251162353" _msthash="331">🙏 致我们的朋友：<a href="https://github.com/tiangolo/fastapi" _mstmutation="1" _istranslated="1">FastAPI</a>、<a href="https://github.com/pydantic/pydantic" _mstmutation="1" _istranslated="1">Pydantic</a>、<a href="https://github.com/samuelcolvin/arq" _mstmutation="1" _istranslated="1">Arq</a>、<a href="https://github.com/sqlalchemy/sqlalchemy" _mstmutation="1" _istranslated="1">SQLAlchemy</a>、<a href="https://github.com/yanyongyu/githubkit" _mstmutation="1" _istranslated="1">Githubkit</a>、<a href="https://github.com/sysid/sse-starlette" _mstmutation="1" _istranslated="1">sse-starlette</a>、<a href="https://github.com/encode/uvicorn" _mstmutation="1" _istranslated="1">Uvicorn</a>、<a href="https://github.com/frankie567/httpx-oauth" _mstmutation="1" _istranslated="1">httpx-oauth</a>、<a href="https://github.com/pallets/jinja" _mstmutation="1" _istranslated="1">jinja</a>、<a href="https://github.com/pallets-eco/blinker" _mstmutation="1" _istranslated="1">blinker</a>、<a href="https://github.com/jpadilla/pyjwt" _mstmutation="1" _istranslated="1">pyjwt</a>、<a href="https://github.com/getsentry/sentry" _mstmutation="1" _istranslated="1">Sentry</a> + 更多</font><code>pyproject.toml</code></sub><br>
+<sub><g-emoji class="g-emoji" alias="hearts" _msttexthash="7658495" _msthash="332">♥️</g-emoji><font _mstmutation="1" _msttexthash="218432903" _msthash="333">🙏 致我们的朋友：<a href="https://github.com/vercel/next.js/" _mstmutation="1" _istranslated="1">Next.js</a>、<a href="https://github.com/TanStack/query" _mstmutation="1" _istranslated="1">TanStack Query</a>、<a href="https://github.com/tailwindlabs/tailwindcss" _mstmutation="1" _istranslated="1">tailwindcss</a>、<a href="https://github.com/pmndrs/zustand" _mstmutation="1" _istranslated="1">zustand</a>、<a href="https://github.com/ferdikoomen/openapi-typescript-codegen" _mstmutation="1" _istranslated="1">openapi-typescript-codegen</a>、<a href="https://github.com/axios/axios" _mstmutation="1" _istranslated="1">axios</a>、<a href="https://github.com/radix-ui/primitives" _mstmutation="1" _istranslated="1">radix-ui</a>、<a href="https://github.com/pacocoursey/cmdk" _mstmutation="1" _istranslated="1">cmdk</a>、<a href="https://github.com/framer/motion" _mstmutation="1" _istranslated="1">framer-motion</a> + 更多</font><code>package.json</code></sub><br>
+<sub><g-emoji class="g-emoji" alias="hearts" _msttexthash="7658495" _msthash="334">♥️</g-emoji><font _mstmutation="1" _msttexthash="417600560" _msthash="335">🙏 向 <a href="https://ipinfo.io" rel="nofollow" _mstmutation="1" _istranslated="1">IPinfo</a> 发送信息，该信息提供 IP 地址数据，以帮助我们在结账时对客户进行地理定位。</font></sub></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="9675445" _msthash="336">许可证</h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license" _mstaria-label="331903" _msthash="337"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto" _msttexthash="71793202" _msthash="338">根据 <a href="https://www.apache.org/licenses/LICENSE-2.0" rel="nofollow" _istranslated="1">Apache 许可证 2.0 版</a>获得许可。</p>
+</article></div>
